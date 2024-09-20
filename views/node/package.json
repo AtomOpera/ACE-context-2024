@@ -1,0 +1,9 @@
+{
+  "name": "ssr-views",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "ssr-views": "file:"
+  }
+}
